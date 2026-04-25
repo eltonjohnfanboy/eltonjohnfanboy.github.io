@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+# Hi! I'm Adarsh :)
 
-Maybe say a some things about yourself.
+I do AI for Quantum at IBM Research, right now mostly post-training LLMs with RL.
 
-Or maybe what you plan to blog about.
+This blog is a place for things I'm learning, ideas or notes on whatever I happen to be thinking about. Some of it will be research. Some of it won't :D
